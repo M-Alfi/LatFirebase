@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475479025375",
+    "firebase_url": "https://latfirebase-fffdf.firebaseio.com",
+    "project_id": "latfirebase-fffdf",
+    "storage_bucket": "latfirebase-fffdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475479025375:android:87416503eeb660691ceb6a",
+        "android_client_info": {
+          "package_name": "com.example.latfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475479025375-7a87o1ijun1majmp21tif90neqr0mvuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latfirebase",
+            "certificate_hash": "7eb3ccad4e5b7d83f1d4fd2f935509b4fe0b67b4"
+          }
+        },
+        {
+          "client_id": "475479025375-abc16ra63fbpml3njd4qsrdo8pntrf57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgvo89qjbCTwoqagJLCQI1uayuAMJd09I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475479025375-abc16ra63fbpml3njd4qsrdo8pntrf57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

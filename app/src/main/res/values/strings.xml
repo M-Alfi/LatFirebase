@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRUD Firebase</string>
+    <array name="Generes">
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>sufi</item>
+    </array>
+</resources>
